@@ -7,6 +7,7 @@ on:
       - nv-codec-legacy
     tags:
       - '20[2-9][0-9]-[0-9][0-9]-[0-9][0-9]'
+      - '20[2-9][0-9]-[0-9][0-9]-[0-9][0-9]-legacy'
   pull_request:
     paths-ignore:
       - '**.md'
