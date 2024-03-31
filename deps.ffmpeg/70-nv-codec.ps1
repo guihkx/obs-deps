@@ -1,8 +1,8 @@
 param(
     [string] $Name = 'nv-codec-headers',
-    [string] $Version = '12.1.14.0',
+    [string] $Version = '12.0.16.2',
     [string] $Uri = 'https://github.com/FFmpeg/nv-codec-headers.git',
-    [string] $Hash = '1889e62e2d35ff7aa9baca2bceb14f053785e6f1'
+    [string] $Hash = '22441b505d9d9afc1e3002290820909846c24bdc'
 )
 
 function Setup {
